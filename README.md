@@ -28,3 +28,10 @@ Os prototipos não estão disponiveis devido a utilização para fins academicos
   - **Django**
     versão 4.1.2 -> link de download e tutorial: https://docs.djangoproject.com/en/4.2/topics/install/#installing-official-release
     comando: python -m pip install Django
+
+  - **Bootstrap**
+    versão 5 -> link de download e tutorial: https://pypi.org/project/django-bootstrap-v5/)https://pypi.org/project/django-bootstrap-v5
+    comando: pip install django-bootstrap-v5
+
+  - **Pillow**
+    comando: pip3 install Pillow
