@@ -15,10 +15,10 @@ Nossa proposta visou o cadastro de todos atores (aluno, interprete, monitor e tu
 
 Os prototipos não estão disponiveis devido a utilização para fins academicos.
 
-#  Para iniciar a aplicação
+#  Downloads necessarios
 
-  #Python
-  '''
+-**Python**
+  ```
   Versão 3.9 -> link para download: https://www.python.org/downloads/release/python-390/
   Tutorial   -> Link: https://python.org.br/instalacao-windows/
-  '''
+  ```
