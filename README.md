@@ -21,8 +21,7 @@ Os prototipos não estão disponiveis devido a utilização para fins academicos
     - **Extension Pack for Python (Extensão do VS Code)**
       https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-  - **Python**    
-    
+  - **Python**      
     versão 3.9 -> link para download: https://www.python.org/downloads/release/python-390/
     tutorial   -> Link: https://python.org.br/instalacao-windows/
     
