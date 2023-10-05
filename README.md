@@ -16,10 +16,16 @@ Nossa proposta visou o cadastro de todos atores (aluno, interprete, monitor e tu
 Os prototipos não estão disponiveis devido a utilização para fins academicos.
 
 #  Downloads necessarios
+  - **Visual Studio Code**
+    Link para download: https://code.visualstudio.com/Download
+    - **Extension Pack for Python (Extensão do VS Code)**
+      https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-  - **Python**
-    
+  - **Python**    
     ```
     Versão 3.9 -> link para download: https://www.python.org/downloads/release/python-390/
     Tutorial   -> Link: https://python.org.br/instalacao-windows/
     ```
+    - **Django**
+      versão 4.1.2 -> link de download e tutorial: https://docs.djangoproject.com/en/4.2/topics/install/#installing-official-release
+      comando: python -m pip install Django
